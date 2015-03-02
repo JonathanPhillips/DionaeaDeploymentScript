@@ -1,0 +1,9 @@
+//Add the following configuration to the dionaea.conf
+
+Malware_Analysts_Cookbook=
+{
+  urls = ["http://192.168.1.100:9000/dionaea.py"]
+  email = "your@email.com"
+  user = "username"
+  pass = "password"
+}
